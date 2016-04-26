@@ -1,0 +1,28 @@
+name: Tyler Baynes
+favicon: null
+layout_spectrum: 0.9826807728968561
+typography_spectrum: 0.48725063051097095
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.27339556557126343
+  lightness: 0.38683331198990345
+  saturation: 0.5400997186079621
+  rhythmicContrast: 0.8360737331677228
+purpose: []
